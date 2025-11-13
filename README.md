@@ -1,6 +1,6 @@
 # 🔥 Awesome-IRSTD-Datasets
 
-**Authors:**Dianfang Sun (孙殿芳), Siyu Chen (陈思予), Zhe Chen (陈哲), Zihao Xiong(熊子豪), Yimian Dai (戴一冕)\*
+**Authors:** Dianfang Sun (孙殿芳), Siyu Chen (陈思予), Zhe Chen (陈哲), Zihao Xiong(熊子豪), Yimian Dai (戴一冕)\*
 
 A curated list of public datasets for Infrared Small Target Detection (IRSTD), Tracking, and Segmentation, categorized by data source (Real-World vs. Synthetic) and sorted by release year.
 
