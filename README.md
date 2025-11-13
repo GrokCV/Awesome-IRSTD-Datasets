@@ -4,7 +4,7 @@ A curated list of public datasets for Infrared Small Target Detection (IRSTD), T
 
 ## I. Real-World Datasets
 
-This section lists publicly available datasets collected using real infrared sensors, suitable for IRST, tracking, or segmentation tasks.
+This section lists publicly available datasets collected using real infrared sensors, suitable for IRST, tracking, or segmentation tasks, and sorted by release year.
 
 ### 📅 2020
 
@@ -49,10 +49,10 @@ This section lists publicly available datasets collected using real infrared sen
 ### 📅 2022
 
 #### 7. IRSTD-1k
-* **Description:** A fundamental and widely-used dataset containing 1000 images captured from real infrared systems. Images cover diverse backgrounds (sky, clouds, ground) with rich variations in target size and SNR. Provides pixel-level segmentation masks.
+* **Description:** Published in 2022 at the **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)** by the team led by **Mingjin Zhang** and **Rui Zhang** from the **University of Sydney** and **Xidian University**.
 * **Target Type:** UAVs, Birds, etc.
 * **Download Link:** [Google Drive](https://drive.google.com/file/d/1JoGDGF96v4CncKZprDnoIor0k1opaLZa/view)
-* **GitHub/Project Link:** [Link](https://github.com/RuiZhang97/ISNet)
+* **GitHub/Project Link:** [Link](https://github.com/RuiZhang97/ISNet?tab=readme-ov-file)
 
 #### 8. SIRST v2
 * **Description:** An improved version of the SIRST dataset.
@@ -60,7 +60,7 @@ This section lists publicly available datasets collected using real infrared sen
 * **GitHub/Project Link:** [Link](https://github.com/YimianDai/open-sirst-v2)
 
 #### 9. ISDD (Infrared Ship Detection Dataset)
-* **Description:** A public dataset with 1284 IR remote sensing images and 3061 ship instances (500x500 resolution). Images are sourced from the Landsat8 satellite and pre-processed with radiometric calibration and FLAASH atmospheric correction. Contains 373 inshore scenes and 911 offshore scenes.
+* **Description:** A public dataset with 1284 IR remote sensing images and 3061 ship instances (500x500 resolution). Images are sourced from the Landsat8 satellite, after pre-processing with radiometric calibration and FLAASH atmospheric correction. Contains 373 inshore scenes and 911 offshore scenes.
 * **Target Type:** Ships (Inshore and Offshore scenes)
 * **Download Link:** [Baidu Pan](https://pan.baidu.com/share/init?surl=VfCbiWnjPoXoI4MaH0VkXw) (Password: `asdf`)
 * **GitHub/Project Link:** [Link](https://github.com/yaqihan-9898/ISDD)
@@ -155,7 +155,7 @@ This section lists publicly available datasets created using synthetic or semi-s
 * **Note:** Fully Synthetic.
 
 #### 6. DenseSIRST
-* **Description:** The first IRST dataset to include both dense targets and background semantic annotation. Contains 1024 high-quality IR images, annotating 13,655 densely distributed small targets (3x3 pixels is the highest proportion). Includes a simulated dense small target image and a corresponding sky segmentation version for each pair.
+* **Description:** The first IRST dataset to include both dense targets and background semantic annotation. Contains 1024 high-quality IR images, annotating 13,655 densely distributed small targets. Includes a simulated dense small target image and a corresponding sky segmentation version for each pair.
 * **Target Type:** Simulated Dense Small Targets
 * **Download Link:** [Google Drive](https://drive.usercontent.google.com/download?id=1PY0d1WuCjf_3wAIjDSNhYxREVK27OLzl&export=download&authuser=0)
 * **GitHub/Project Link:** [Link](https://github.com/GrokCV/DenseSIRST)
