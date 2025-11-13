@@ -31,7 +31,7 @@ This section lists publicly available datasets collected using real infrared sen
 * **Description:** Includes 410 video sequences with over 438k bounding boxes, designed for UAV tracking challenges. Focuses on small UAV tracking at long range in real-world scenarios (forests, mountains, lakes), which introduces dynamic clutter.
 * **Target Type:** UAVs
 * **Download Link:** [Baidu Pan](https://pan.baidu.com/s/1R-L9gKIRowMgjjt52n48-g?pwd=a410) (Password: `a410`)
-* **GitHub/Project Link:** [Link](HwangBo94/Anti-UAV410: The benchmark of AntiUAV410)
+* **GitHub/Project Link:** [Link](https://github.com/HwangBo94/Anti-UAV410)
 * **Note:** Video data.
 
 #### 5. Infrared Image UAV Detection Dataset
