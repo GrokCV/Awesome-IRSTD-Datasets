@@ -1,4 +1,3 @@
-# Awesome-IRSTD-Datasets
 # 🔥 Awesome-IRSTD-Datasets
 
 A curated list of public datasets for Infrared Small Target Detection (IRSTD), Tracking, and Segmentation, categorized by data source (Real-World vs. Synthetic) and sorted by release year.
@@ -53,7 +52,7 @@ This section lists publicly available datasets collected using real infrared sen
 * **Description:** A fundamental and widely-used dataset containing 1000 images captured from real infrared systems. Images cover diverse backgrounds (sky, clouds, ground) with rich variations in target size and SNR. Provides pixel-level segmentation masks.
 * **Target Type:** UAVs, Birds, etc.
 * **Download Link:** [Google Drive](https://drive.google.com/file/d/1JoGDGF96v4CncKZprDnoIor0k1opaLZa/view)
-* **GitHub/Project Link:** [Link](https://github.com/RuiZhang97/ISNet?tab=readme-ov-file)
+* **GitHub/Project Link:** [Link](https://github.com/RuiZhang97/ISNet)
 
 #### 8. SIRST v2
 * **Description:** An improved version of the SIRST dataset.
