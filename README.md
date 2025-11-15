@@ -1,6 +1,6 @@
 # 🔥 Awesome-IRSTD-Datasets
 
-**Authors:** Dianfang Sun (孙殿芳), Siyu Chen (陈思予), Zhe Chen (陈哲), Zihao Xiong(熊子豪), Yimian Dai (戴一冕)\*
+**Authors:** Dianfang Sun (孙殿芳), Siyu Chen (陈思予), Zhe Chen (陈哲), Zihao Xiong(熊子豪),**Yimian Dai (戴一冕)\***
 
 [中文版请见: Awesome IRSTD Dataset](https://grokcv.ai/blog/awesome-irstd-dataset/%E7%BA%A2%E5%A4%96%E5%BC%B1%E5%B0%8F%E7%9B%AE%E6%A0%87%E6%95%B0%E6%8D%AE%E9%9B%86%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86%E6%8A%A5%E5%91%8A/)
 
