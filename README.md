@@ -14,7 +14,7 @@ This section lists all public datasets collected using real infrared equipment, 
 
 #### 1. SIRST
 
-- **Description:** Published in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** in **2020** by the team of **Dai Yimian**. SIRST is a dataset specially constructed for single-frame infrared small target detection, in which the images are selected from hundreds of infrared sequences for different scenarios.
+- **Description:** Published in **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** in **2020** by the team of **Yimian Dai**. SIRST is a dataset specially constructed for single-frame infrared small target detection, in which the images are selected from hundreds of infrared sequences for different scenarios.
 - **Target Type:** UAVs, Birds, etc.
 - **GitHub/Project Link:** [SIRST GitHub](https://github.com/YimianDai/sirst)
 
@@ -76,7 +76,7 @@ This section lists all public datasets collected using real infrared equipment, 
 
 #### 9. SIRST v2
 
-- **Description:** Published in **IEEE Transactions on Geoscience and Remote Sensing** in **2023** by the team of **Dai Yimian** et al.
+- **Description:** Published in **IEEE Transactions on Geoscience and Remote Sensing** in **2023** by the team of **Yimian Dai** et al.
 - **Target Type:** UAVs, Birds, etc.
 - **GitHub/Project Link:** [Open-SIRST-v2 GitHub](https://github.com/YimianDai/open-sirst-v2)
 
